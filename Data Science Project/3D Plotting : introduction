@@ -1,0 +1,4 @@
+THREE DIMENTIONAL PLOTTING IN PYTHON USING MATPLOTLIB
+Matplotlib installation has to be imported: 
+   "from mpl_toolkits import mplot3d"
+   
