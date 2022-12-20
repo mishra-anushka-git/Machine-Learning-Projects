@@ -1,0 +1,3 @@
+The user should be able to input letter guesses.
+The limit should also be set on how many guesses they can use.
+Keep notifying the user the remaining turns.
